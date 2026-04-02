@@ -1,5 +1,5 @@
 ---
-name: my-awesome-skill
+name: firstSkill
 description: 这是一个能帮你写诗的技能
 ---
 
